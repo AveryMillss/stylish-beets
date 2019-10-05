@@ -16,16 +16,18 @@ nav a {
   color: #8f2440;
   list-style: none;
   font-family: 'PT Sans', sans-serif;
-
+  font-weight: bold;
  }
 
 nav a:hover {
   color: #3f1622;
 }
+
 h2 {
   font-size: 1.5rem;
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
 }
 
 li {
@@ -47,6 +49,8 @@ img {
 }
 
 blockquote {
+  font-family: 'PT Serif', serif;
+  font-style: italic;
   font-size: 1.5rem;
 }
 
@@ -56,4 +60,12 @@ footer a {
 
 footer a:hover {
   color: #3f1622
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+.carbs {
+  font-weight: bold;
 }
