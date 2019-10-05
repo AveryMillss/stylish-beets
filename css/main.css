@@ -1,0 +1,24 @@
+html {
+  background-color: #c9b5ab;
+}
+h1 {
+  text-size: 1.5rem;
+  color: #3f1662;
+}
+
+h2 {
+  text-size: 1.125rem;
+}
+
+li {
+  text-size: 0.8
+  color: #8f2440;
+}
+
+p {
+  text-size: 0.8;
+}
+
+html {
+  line-height: 1.5;
+}
