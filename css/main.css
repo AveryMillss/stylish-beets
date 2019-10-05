@@ -1,24 +1,59 @@
 html {
   background-color: #c9b5ab;
 }
+
 h1 {
-  text-size: 1.5rem;
-  color: #3f1662;
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
 }
 
+nav a {
+  text-decoration: none;
+}
+
+nav a {
+  color: #8f2440;
+  list-style: none;
+  font-family: 'PT Sans', sans-serif;
+
+ }
+
+nav a:hover {
+  color: #3f1622;
+}
 h2 {
-  text-size: 1.125rem;
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
 }
 
 li {
-  text-size: 0.8
+  font-size: 0.8rem
   color: #8f2440;
+  list-style: none
 }
 
 p {
-  text-size: 0.8;
+  font-size: 0.8rem;
 }
 
 html {
-  line-height: 1.5;
+  line-height: 1.5rem;
+}
+
+img {
+  width: 100%;
+}
+
+blockquote {
+  font-size: 1.5rem;
+}
+
+footer a {
+  color: #8f2440;
+}
+
+footer a:hover {
+  color: #3f1622
 }
