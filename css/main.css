@@ -69,3 +69,15 @@ h2 + p {
 .carbs {
   font-weight: bold;
 }
+
+figure p {
+  font-style: italic;
+}
+
+aside {
+  font-size: 0.8rem;
+}
+
+footer {
+  font-size: 0.8rem;
+}
