@@ -34,10 +34,6 @@ h2 {
   font-weight: bold;
 }
 
-li {
-  list-style-type: georgian;
-}
-
 p {
   font-size: 1rem;
 }
@@ -54,6 +50,7 @@ blockquote {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.5rem;
+  line-height: 1.5rem;
 }
 
 footer a {
@@ -87,4 +84,8 @@ footer {
 
 .germination {
   font-weight: bold;
+}
+
+ul {
+  list-style-type: lower-greek;
 }
